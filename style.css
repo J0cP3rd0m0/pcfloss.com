@@ -16,7 +16,12 @@ body{
     color: burlywood;
     height: 100px;
     margin: 5px;
-    padding: 5px;
+    padding: 20px, 0px;
+}
+
+article:hover{
+    background-color: burlywood;
+    cursor: pointer;
 }
 
 .post{
