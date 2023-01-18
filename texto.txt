@@ -1,3 +1,0 @@
-Archivo para probar GitHub
-
-Prueba para saber si tenemos instalado VIM editor.
