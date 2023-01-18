@@ -1,11 +1,59 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
 body{
     background-color: white;
 }
 
-article{
+#title{
+    border-style: solid;
+    border-color: rgb(38, 44, 51);
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: rgb(38, 44, 51);
+    text-align: center;
+    color: burlywood;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.post{
     border-style: solid;
     border-color: whitesmoke;
-    background-color: whitesmoke;
     border-radius: 5px;
     border-width: 5px;
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 5px;
+}
+
+footer{
+    border-style: solid;
+    border-color: rgb(38, 44, 51);
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: rgb(38, 44, 51);
+    text-align: center;
+    color: burlywood;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+}
+
+a:link{
+    color: lightpink;
+}
+
+a:visited{
+    color: gray;
+}
+
+a:hover{
+    color: burlywood;
+}
+
+a:active{
+    color: blueviolet;
 }
