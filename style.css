@@ -1,64 +1,113 @@
-html{
-    font-family: 'Courier New', Courier, monospace;
-}
-
 body{
-    background-color: white;
+    margin: 0;
+    background-color: #efefef;
+    font-family: 'Montserrat', sans-serif;
 }
 
-#title{
-    border-style: solid;
-    border-color: rgb(38, 44, 51);
-    border-width: 5px;
-    border-radius: 5px;
-    background-color: rgb(38, 44, 51);
-    text-align: center;
-    color: burlywood;
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #364653;
+    padding: 1rem;
+}
+
+header img{
     height: 100px;
-    margin: 5px;
-    padding: 20px, 0px;
+    width: 100px;
+    cursor: pointer;
+    transition: all 0.3s;
 }
 
-article:hover{
+header img:hover{
+    transform: scale(1.2);
+}
+
+header p{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    color: whitesmoke;
+}
+
+header nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 1.5rem;
+    padding: 0, 0.5rem;
+}
+
+header nav a{
+    transition: color 0.3s ease;
+    color: burlywood;
+    text-decoration: none;
+}
+
+header button{
+    font-weight: 1rem;
+    color: burlywood;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 0.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease 0;
+}
+
+header button:hover{
     background-color: burlywood;
+    color: whitesmoke;
+    transform: scale(1.2);
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+article{
+    transition: box-shadow 0.3s ease;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-radius: 0.5rem;
+    background-color: whitesmoke;
+    margin: 1rem;
+    padding: 0.5rem, 0;
     cursor: pointer;
 }
 
-.post{
-    border-style: solid;
-    border-color: whitesmoke;
-    border-radius: 5px;
-    border-width: 5px;
-    background-color: whitesmoke;
-    margin: 5px;
-    padding: 5px;
+section article h2{
+    margin: 1rem;
+}
+
+section article p{
+    margin: 1rem;
+}
+
+article:hover{
+    box-shadow: 0 0.1rem 0.4rem #364552;  
 }
 
 footer{
-    border-style: solid;
-    border-color: rgb(38, 44, 51);
-    border-width: 5px;
-    border-radius: 5px;
-    background-color: rgb(38, 44, 51);
-    text-align: center;
+    background-color: #364552;
+    padding: 3rem;
+}
+
+footer section{
+    float: right;
+}
+
+footer p{
+    margin: 0;
+    color: whitesmoke;
+}
+
+footer a{
+    transition: color 0.3s ease;
     color: burlywood;
-    height: 100px;
-    margin: 5px;
-    padding: 5px;
-}
-
-a:link{
-    color: lightpink;
-}
-
-a:visited{
-    color: gray;
+    text-decoration: none;
+    margin-left: 1.5rem;
 }
 
 a:hover{
-    color: burlywood;
-}
-
-a:active{
-    color: blueviolet;
+    color: whitesmoke;
 }

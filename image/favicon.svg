@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="483.94183mm"
+   height="485.9491mm"
+   viewBox="0 0 483.94183 485.9491"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.37282197"
+     inkscape:cx="1829.2913"
+     inkscape:cy="887.82321"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1225.2255"
+       y="1896.6339"
+       width="192.50833"
+       height="130.86774"
+       id="rect2780" />
+    <rect
+       x="955.9035"
+       y="447.60559"
+       width="584.16321"
+       height="295.87488"
+       id="rect2666" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-299.14453,-485.52023)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.256616"
+       id="rect236"
+       width="483.94183"
+       height="485.9491"
+       x="299.14453"
+       y="485.52023"
+       ry="46.976589"
+       rx="43.156322" />
+    <text
+       xml:space="preserve"
+       transform="matrix(9.2001815,0,0,13.335694,-8469.2935,-5533.1827)"
+       id="text2664"
+       style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2666);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
+         x="955.9043"
+         y="484.93883"
+         id="tspan304">PC</tspan></text>
+  </g>
+</svg>

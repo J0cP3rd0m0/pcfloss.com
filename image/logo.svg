@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="483.94183mm"
+   height="485.9491mm"
+   viewBox="0 0 483.94183 485.9491"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.37282197"
+     inkscape:cx="852.95404"
+     inkscape:cy="885.14098"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1225.2255"
+       y="1896.6339"
+       width="192.50833"
+       height="130.86774"
+       id="rect2780" />
+    <rect
+       x="955.9035"
+       y="447.60559"
+       width="584.16321"
+       height="295.87488"
+       id="rect2666" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-299.14453,-485.52023)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.256616"
+       id="rect236"
+       width="483.94183"
+       height="485.9491"
+       x="299.14453"
+       y="485.52023"
+       ry="46.976589"
+       rx="43.156322" />
+    <text
+       xml:space="preserve"
+       transform="matrix(3.4500681,0,0,5.0008853,-2832.7698,-1615.2434)"
+       id="text2664"
+       style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2666);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
+         x="955.9043"
+         y="484.93883"
+         id="tspan1658">PC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.9918534,0,0,2.3313146,-1973.0372,-3598.2674)"
+       id="text2778"
+       style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2780);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:18.3572;stroke-dasharray:none"><tspan
+         x="1225.2246"
+         y="1933.9681"
+         id="tspan1660">Floss</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#ebebeb;stroke-width:5;stroke-dasharray:none;stroke-opacity:0.965714"
+       d="m 474.14453,823.02023 h 150"
+       id="path294" />
+  </g>
+</svg>
