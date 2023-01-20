@@ -8,7 +8,10 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="favicon.svg"
+   sodipodi:docname="favicon - centrado.svg"
+   inkscape:export-filename="favicon - centrado.png"
+   inkscape:export-xdpi="1.6799999"
+   inkscape:export-ydpi="1.6799999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.37282197"
-     inkscape:cx="1829.2913"
-     inkscape:cy="887.82321"
+     inkscape:zoom="0.32146875"
+     inkscape:cx="614.36766"
+     inkscape:cy="895.88803"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -62,13 +65,23 @@
        y="485.52023"
        ry="46.976589"
        rx="43.156322" />
-    <text
-       xml:space="preserve"
-       transform="matrix(9.2001815,0,0,13.335694,-8469.2935,-5533.1827)"
-       id="text2664"
-       style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2666);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
-         x="955.9043"
-         y="484.93883"
-         id="tspan304">PC</tspan></text>
+    <g
+       id="g309"
+       transform="matrix(1.2,0,0,1.1266583,-109.82892,-17.828062)">
+      <text
+         xml:space="preserve"
+         transform="matrix(7.0921933,0,0,7.6677259,-6369.2024,-2952.2267)"
+         id="text2664"
+         style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2666);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
+           x="955.9043"
+           y="487.46486"
+           id="tspan325"><tspan
+             style="font-weight:bold;font-stretch:condensed;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed'"
+             id="tspan323">PC</tspan></tspan></text>
+      <path
+         style="fill:#ffffff;stroke:#ebebeb;stroke-width:7.07107;stroke-dasharray:none;stroke-opacity:0.965714"
+         d="m 424.14454,798.25884 h 250"
+         id="path294" />
+    </g>
   </g>
 </svg>

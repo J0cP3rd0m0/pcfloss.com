@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logo - centrado.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.37282197"
-     inkscape:cx="852.95404"
-     inkscape:cy="885.14098"
+     inkscape:cx="269.56566"
+     inkscape:cy="887.82321"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -62,25 +62,29 @@
        y="485.52023"
        ry="46.976589"
        rx="43.156322" />
-    <text
-       xml:space="preserve"
-       transform="matrix(3.4500681,0,0,5.0008853,-2832.7698,-1615.2434)"
-       id="text2664"
-       style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2666);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
-         x="955.9043"
-         y="484.93883"
-         id="tspan1658">PC</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(1.9918534,0,0,2.3313146,-1973.0372,-3598.2674)"
-       id="text2778"
-       style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2780);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:18.3572;stroke-dasharray:none"><tspan
-         x="1225.2246"
-         y="1933.9681"
-         id="tspan1660">Floss</tspan></text>
-    <path
-       style="fill:#ffffff;stroke:#ebebeb;stroke-width:5;stroke-dasharray:none;stroke-opacity:0.965714"
-       d="m 474.14453,823.02023 h 150"
-       id="path294" />
+    <g
+       id="g246"
+       transform="matrix(1.6666661,0,0,1.1999999,-366.09601,-207.10392)">
+      <text
+         xml:space="preserve"
+         transform="matrix(3.4500681,0,0,5.0008853,-2832.7698,-1615.2434)"
+         id="text2664"
+         style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2666);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
+           x="955.9043"
+           y="484.93883"
+           id="tspan309">PC</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1.9918534,0,0,2.3313146,-1973.0372,-3598.2674)"
+         id="text2778"
+         style="font-size:42.6667px;font-family:Alcubierre;-inkscape-font-specification:Alcubierre;white-space:pre;shape-inside:url(#rect2780);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:18.3572;stroke-dasharray:none"><tspan
+           x="1225.2246"
+           y="1933.9681"
+           id="tspan311">Floss</tspan></text>
+      <path
+         style="fill:#ffffff;stroke:#ebebeb;stroke-width:5;stroke-dasharray:none;stroke-opacity:0.965714"
+         d="m 474.14453,823.02023 h 150"
+         id="path294" />
+    </g>
   </g>
 </svg>

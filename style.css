@@ -17,6 +17,7 @@ header img{
     width: 100px;
     cursor: pointer;
     transition: all 0.3s;
+    padding: 1rem;
 }
 
 header img:hover{
@@ -25,32 +26,31 @@ header img:hover{
 
 header p{
     display: flex;
-    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
     font-size: 2rem;
+    padding: 1rem;
     color: whitesmoke;
 }
 
 header nav ul li{
+    font-size: 1rem;
+    font-weight: 0.5rem;
     list-style: none;
     display: inline-block;
-    margin-left: 1.5rem;
-    padding: 0, 0.5rem;
-}
-
-header nav a{
-    transition: color 0.3s ease;
-    color: burlywood;
-    text-decoration: none;
+    padding: 1rem;
 }
 
 header button{
-    font-weight: 1rem;
+    font-weight: 0.5rem;
+    font-size: 1rem;
     color: burlywood;
     background-color: whitesmoke;
     border: none;
-    border-radius: 0.1rem;
+    border-radius: 0.5rem;
     cursor: pointer;
-    transition: all 0.3s ease 0;
+    transition: color 0.3s ease 0;
 }
 
 header button:hover{
@@ -71,7 +71,6 @@ article{
     border-radius: 0.5rem;
     background-color: whitesmoke;
     margin: 1rem;
-    padding: 0.5rem, 0;
     cursor: pointer;
 }
 
@@ -81,6 +80,11 @@ section article h2{
 
 section article p{
     margin: 1rem;
+}
+
+section article img{
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 article:hover{
@@ -97,15 +101,18 @@ footer section{
 }
 
 footer p{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.5rem;
+    font-size: 1rem;
     margin: 0;
     color: whitesmoke;
 }
 
-footer a{
-    transition: color 0.3s ease;
+a{
     color: burlywood;
     text-decoration: none;
-    margin-left: 1.5rem;
+    transition: color 0.3s ease;
 }
 
 a:hover{
