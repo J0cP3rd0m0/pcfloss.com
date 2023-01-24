@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: aquamarine;
+    font-family: Roboto, sans-serif;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color: coral;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+}
+
+.texto{
+    display: flex;
+    font-size: 2rem;
+}
+
+.lista{
+    display: flex;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+
+a{
+    text-decoration: none;
+}
