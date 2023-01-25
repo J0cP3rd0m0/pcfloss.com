@@ -1,55 +1,57 @@
 body{
     margin: 0;
     background-color: #efefef;
-    font-family: Roboto, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
 }
 
-.header{
+header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100px;
     background-color: #364653;
     padding: 1rem;
 }
 
+header img{
+    height: 100px;
+    width: 100px;
+}
+
+header div p{
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+
+header nav ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 0.5rem;
+}
+
 .logo{
-    display: flex;
+    /* display: flex;
+    justify-content: space-between;
+    /* padding: 1rem; */
+    background-color: red;
+    /* align-items: center; */
 }
 
 .texto{
-    display: flex;
-    font-size: 2rem;
-    color: whitesmoke;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    background-color: green;
 }
 
-.lista{
-    display: flex;
-}
-
-ul li{
-    list-style: none;
-    display: inline-block;
-    margin-right: 10px;
-    
-}
-
-.logo img{
-    height: 100px;
-    width: 100px;
-    transition: ease 0.3s;
-}
-
-a{
-    color: burlywood;
-    text-decoration: none;
-    transition: color ease 0.3s;
-}
-
-a:hover{
-    color: whitesmoke;
-}
-
-header div img:hover{
-    transform: scale(1.2);
+.menu{
+    /* display: flex;
+    justify-content: space-between;
+    /* padding: 1rem; */
+    background-color: yellow;
+    /* margin: 1rem; */
+    /* padding: 0; */
+    /* align-items: center; */
 }

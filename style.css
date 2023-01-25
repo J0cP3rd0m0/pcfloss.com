@@ -31,7 +31,7 @@ header p{
     display: flex;
     justify-content: center;
     text-transform: uppercase;
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.1rem;
     font-size: 2rem;
     padding: 1rem;
     color: whitesmoke;
@@ -51,7 +51,7 @@ header button{
     color: burlywood;
     background-color: whitesmoke;
     border: none;
-    border-radius: 0.5rem;
+    border-radius: 0.3rem;
     cursor: pointer;
     transition: color 0.3s ease 0;
 }
