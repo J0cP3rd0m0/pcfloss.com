@@ -69,6 +69,7 @@ header nav ul{
     font-weight: 0.5rem;
     color: burlywood;
     transition: color 0.3s ease;
+    border: none;
     border-radius: 0.3rem;
 }
 
