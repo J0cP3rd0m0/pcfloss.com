@@ -1,57 +1,79 @@
 body{
     margin: 0;
     background-color: #efefef;
-    font-family: 'Roboto', sans-serif;
-    min-height: 100vh;
+    font-family: monospace, 'Courier New', Courier, monospace;
 }
 
-header{
+.header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 150px;
     background-color: #364653;
-    padding: 1rem;
-}
-
-header img{
-    height: 100px;
-    width: 100px;
-}
-
-header div p{
-    font-size: 2rem;
-    text-transform: uppercase;
-    letter-spacing: 0.2rem;
-}
-
-header nav ul li{
-    list-style: none;
-    display: inline-block;
-    font-size: 1rem;
-    font-weight: 0.5rem;
 }
 
 .logo{
-    /* display: flex;
-    justify-content: space-between;
-    /* padding: 1rem; */
-    background-color: red;
-    /* align-items: center; */
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    
+    /* cursor: pointer; */
+}
+
+header div img{
+    height: 100px;
+    width: 100px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+header div img:hover{
+    transform: scale(1.2);
 }
 
 .texto{
-    /* display: flex;
-    justify-content: space-between;
-    align-items: center; */
-    background-color: green;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: blueviolet;
 }
 
-.menu{
-    /* display: flex;
-    justify-content: space-between;
-    /* padding: 1rem; */
-    background-color: yellow;
-    /* margin: 1rem; */
-    /* padding: 0; */
-    /* align-items: center; */
+div p{
+    font-size: 2rem;
+    font-weight: 0.5rem;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+
+.enlaces{
+    display: flex;
+    margin: 10px;
+    background-color: black;
+}
+
+header nav a{
+    font-size: 1rem;
+    font-weight: 0.5rem;
+    text-decoration: none;
+    color: burlywood;
+    transition: color 0.3s ease;
+    padding: 20px;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+header nav button{
+    font-size: 1rem;
+    font-weight: 0.5rem;
+    color: burlywood;
+    transition: color 0.3s ease;
+    border-radius: 0.3rem;
+}
+
+header nav button:hover{
+    background-color: burlywood;
+    color: whitesmoke;
 }
