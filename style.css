@@ -1,65 +1,84 @@
 body{
-    margin: 0;
-    background-color: #efefef;
-    font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
+    background-color: #efefef;
+    font-family: monospace, 'Courier New', Courier, monospace;
     min-height: 100vh;
 }
 
-header{
+.header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    min-height: 130px;
     background-color: #364653;
-    padding: 1rem;
 }
 
-header img{
+.logo{
+    display: flex;
+    padding: 0 20px;
+}
+
+header div img{
     height: 100px;
     width: 100px;
-    cursor: pointer;
     transition: all 0.3s;
-    padding: 1rem;
+    cursor: pointer;
 }
 
-header img:hover{
+header div img:hover{
     transform: scale(1.2);
 }
 
-header p{
+.texto h1{
     display: flex;
-    justify-content: center;
-    text-transform: uppercase;
-    letter-spacing: 0.1rem;
+    text-align: center;
     font-size: 2rem;
-    padding: 1rem;
+    font-weight: 0.5rem;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
     color: whitesmoke;
+}
+
+.enlaces{
+    display: flex;
+    margin: 10px 20px;
 }
 
 header nav ul li{
     font-size: 1rem;
     font-weight: 0.5rem;
-    list-style: none;
     display: inline-block;
-    padding: 1rem;
+    text-decoration: none;
+    padding: 10px;
 }
 
-header button{
-    font-weight: 0.5rem;
-    font-size: 1rem;
+header nav ul{
+    padding: 0;
+}
+
+.enlaces a{
+    text-decoration: none;
     color: burlywood;
-    background-color: whitesmoke;
-    border: none;
-    border-radius: 0.3rem;
-    cursor: pointer;
-    transition: color 0.3s ease 0;
+    transition: color 0.3s ease;
 }
 
-header button:hover{
+.enlaces button{
+    font-size: 1rem;
+    font-weight: 0.5rem;
+    color: burlywood;
+    transition: color 0.3s ease;
+    border-radius: 0.3rem;
+}
+
+header nav a:hover{
+    color: whitesmoke;
+}
+
+header nav button:hover{
     background-color: burlywood;
     color: whitesmoke;
-    transform: scale(1.2);
 }
 
 .container{
@@ -111,15 +130,5 @@ footer p{
     letter-spacing: 0.5rem;
     font-size: 1rem;
     margin: 0;
-    color: whitesmoke;
-}
-
-a{
-    color: burlywood;
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-a:hover{
     color: whitesmoke;
 }
